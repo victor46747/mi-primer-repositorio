@@ -1,2 +1,2 @@
 # mi-primer-repositorio
-este es i primer reopositorio
+este es mi primer reopositorio
